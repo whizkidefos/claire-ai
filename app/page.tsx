@@ -5,7 +5,7 @@ const page = () => {
     <main className="flex flex-col items-center justify-center h-screen px-2 text-white">
         <h1 className="mb-20 text-5xl font-bold">Claire AI</h1>
 
-        <section className="">
+        <section className="flex space-x-2 text-center">
             <div className="">
                 <div className="flex flex-col items-center justify-center mb-5">
                     {/* sun icon */}
